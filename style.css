@@ -1,0 +1,30 @@
+html {
+    background-color:darkblue;
+}
+.title{
+    padding: .1px;
+    background-color: lightseagreen;
+}
+.la {
+    padding: 40px;
+    margin-right: 500px;
+       position: relative;
+    
+    background-color:rgb(34, 38, 41);
+}
+.learnt {
+    padding: 40px;
+    margin-right: 500px;
+       position: relative;
+    
+    background-color:rgb(34, 38, 41);
+    
+}
+.img{
+   margin-right:  400px;
+    top :50px;
+    opacity : .5;
+    position: absolute;
+    top: 150px;
+    left: 960px;
+}
